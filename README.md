@@ -1,15 +1,4 @@
----
-name: .NET MAUI - Weather '21
-description: Weather '21 application that demonstrates UI techniques for adapting UI to desktop and mobile form factors, integrating with native platform-specific features, and supporting light and dark appearance themes.
-page_type: sample
-languages:
-- csharp
-- xaml
-products:
-- dotnet-maui
-- dotnet-core
-urlFragment: apps-weathertwentyone
----
+
 
 # Weather '21
 
